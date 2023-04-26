@@ -66,19 +66,7 @@ public class Atividade01_Cliente {
 	//método visualizar:
 	//alt shif s - generate to String:
 	
-	public void visualizarCliente() {
-		System.out.println("Cliente " + nome + ", idade " + idade + ", estado: " + estado + 
-				", graduacao: " + graduacao + ", casado: " + casado);
-	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
+	public void visualizar() {
+		
+	}	
 }

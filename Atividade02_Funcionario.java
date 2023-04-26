@@ -64,13 +64,7 @@ public class Atividade02_Funcionario {
 	}
 	
 	//criação do método visualizar:
-	public void visualizarFuncionario() {
+	public void visualizar() {
 
-		System.out.println("\n*** Ficha do funcionário ***\n");
-		System.out.println("Nome: " +nome);
-		System.out.println("Idade: " +idade);
-		System.out.println("Casado: " +casado);
-		System.out.println("Filho: " +filho);
-		System.out.println("Estado: " +estado);
 	}
 }
